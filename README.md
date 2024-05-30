@@ -1,6 +1,6 @@
 # TradeIA: Dominating Markets with Reptilian Precision
 
-![TradeIA App](AppDemo.png)
+![TradeIA App](0001.jpg)
 
 ## Project Overview
 
