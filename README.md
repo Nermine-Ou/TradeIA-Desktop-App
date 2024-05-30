@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-TradeIA is an intelligent trading agent designed to help asset managers make informed investment decisions. Inspired by the epic battle between Godzilla and King Kong, TradeIA represents a powerful force (Godzilla) navigating the complexities of the financial market (King Kong). This project was developed as part of an integrated project (PFA) in data science, in collaboration with ESPRIT university and VALUE company.
+TradeIA is an intelligent trading agent designed to assist asset managers in making informed investment decisions. Developed as part of an integrated project (PFA) in data science, TradeIA leverages advanced machine learning and data analysis techniques to navigate the complexities of the financial market. This project was a collaborative effort between ESPRIT university and VALUE company, combining academic knowledge with industry expertise to create a robust and practical solution for financial trading.
 
 ## Project Objectives
 
